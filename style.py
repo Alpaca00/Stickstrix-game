@@ -36,10 +36,11 @@ def textEditStyle():
         }
         QToolTip { 
             font: 10pt Times Bold;
-            color: #224923;
+            background-color: black;
+            color: #008F11;
             border-style: outset;
             border-width: 2px;
             border-radius: 8px;
-            border-color:  #F2F3F4;
+            border-color:  black;
             }                  
          """
