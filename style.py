@@ -44,3 +44,18 @@ def textEditStyle():
             border-color:  black;
             }                  
          """
+def lineEditStyle():
+    return """
+     QLineEdit {
+            font: 10pt Times Bold;
+            background-color: black;
+            color: #008F11;
+            border-style: outset;
+            border-width: 2px;
+            border-radius: 8px;
+            border-color:  black;
+            }
+            """
+   
+
+
