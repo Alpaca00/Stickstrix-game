@@ -1,7 +1,7 @@
 def btnStyle():
     return """
     QPushButton{
-        select-background-color: qlineargradient(x1: 0, y1: 0, x2: 1, y2: 0.5, stop: 0 black, stop: 1 white);
+        /*select-background-color: qlineargradient(x1: 0, y1: 0, x2: 1, y2: 0.5, stop: 0 black, stop: 1 white);*/
         border-style: outset;
         border-width: 2px;
         border-radius: 8px;
